@@ -5,6 +5,7 @@ This repository contains python implementations of certain excercises from the c
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%201%20-%20Linear%20Regression.ipynb'>Exercise 1 - Linear Regression</A><BR>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%202%20-%20Logistic%20Regression.ipynb'>Exercise 2 - Logistic Regression</A><BR>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%203%20-%20Multi-class%20Classification%20and%20Neural%20Networks.ipynb'>Exercise 3 - Multi-class Classification and Neural Networks</A><BR>
+<A href='http://nbviewer.ipython.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%204%20-%20Neural%20Networks%20Learning.ipynb'>Exercise 4 - Neural Networks Learning</A><BR>
 
 ##### References:
 https://www.coursera.org/learn/machine-learning/home/welcome

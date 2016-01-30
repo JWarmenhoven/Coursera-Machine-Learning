@@ -8,6 +8,7 @@ Work in process.<P>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%202%20-%20Logistic%20Regression.ipynb'>Exercise 2 - Logistic Regression</A><BR>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%203%20-%20Multi-class%20Classification%20and%20Neural%20Networks.ipynb'>Exercise 3 - Multi-class Classification and Neural Networks</A><BR>
 <A href='http://nbviewer.ipython.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%204%20-%20Neural%20Networks%20Learning.ipynb'>Exercise 4 - Neural Networks Learning</A><BR>
+<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/Machine-Learning/blob/master/notebooks/Programming%20Exercise%205%20-%20Regularized%20Linear%20Regression%20and%20Bias%20v.s.%20Variance.ipynb'>Exercise 5 - Regularized Linear Regression and Bias v.s. Variance</A><BR>
 
 ##### References:
 https://www.coursera.org/learn/machine-learning/home/welcome

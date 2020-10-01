@@ -15,3 +15,5 @@ For a number of assignments in the course you are instructed to create complete,
 
 ##### References:
 https://www.coursera.org/learn/machine-learning/home/welcome
+
+Helpful.
